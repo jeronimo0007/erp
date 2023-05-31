@@ -1,0 +1,21 @@
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos gerados pelo IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+logs/
+*.log
+
+# Arquivos temporários
+*.tmp
+
+
+
+# Arquivos específicos do Maven Wrapper
+!mvnw
+!mvnw.cmd
